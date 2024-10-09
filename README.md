@@ -1,6 +1,6 @@
 # ASPWebAPITemplate
 
-ASPWebAPITemplate ASPWebAPITemplate is a template for quickly developing REST APIs with ASP.NET.
+ASPWebAPITemplate is a template for quickly developing REST APIs with ASP.NET.
 It’s built for managing simple To Do tasks but can easily be extended for other purposes.
 
 ## Features
