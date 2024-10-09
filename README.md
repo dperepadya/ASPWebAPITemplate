@@ -5,13 +5,14 @@ It’s built for managing simple To Do tasks but can easily be extended for other 
 
 ## Features
 
-- Controllers: Implements RESTful API endpoints for task management.
-- CQRS Pattern: Separates read and write operations using MediatR for requests and responses.
-- Database Repository: Abstracts data access with a repository pattern.
-- Database Support: Utilizes both MS SQL and JSON databases.
-- JWT Authentication: Secures endpoints using JSON Web Tokens.
-- Health Check: Monitors the application's health status.
-- Swagger Documentation: Automatically generated API documentation for testing and development.
+- Controllers for handling requests.
+- CQRS Pattern for requests and responses.
+- Database Repository for data access.
+- Entity Framework Migrations feature for managing data models.
+- MS SQL and JSON Databases support.
+- JWT Authentication for secure access.
+- Health Check endpoint for monitoring the API.
+- Swagger for testing.
 
 ## Technologies Used
 
